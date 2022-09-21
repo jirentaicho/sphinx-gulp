@@ -1,0 +1,6 @@
+app/conf.py
+app/_build
+app/_static
+app/_template
+app/make.bat
+app/Makefile
